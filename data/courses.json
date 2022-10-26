@@ -1,0 +1,77 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "rating": { "number": 5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "HTML for Beginners",
+      "price": 5000,
+      "author": {
+        "name": "Programming-Hero"
+      },
+      "image_url": "https://html.com/wp-content/uploads/html-hpg-featured-new.png",
+      "details": "Introduction to HTML Complete Beginner to Expert Course is perfect for anyone who wants to learn HTML or learn more about HTML.  HTML provides the structure for EVERY WEBSITE and its the foundation for everything you see on the web.  Browsers read HTML and render it out for web users.  If you are looking for a starting point to create digital content this course is for you!!!!In this course you will learn everything you need to know about HTML, and HTML5.  It’s packed full of challenges and exercises to get you writing HTML quickly.  As you follow the lessons source code is also included to get you started quickly and easily.  The course will provide you everything you need to get started with HTML and challenge you to learn HTML. Core focus of this course is just HTML, learn to code HTML in just a few hours.  You will be amazed at how easily you will be able to write your own HTML.Straight to the point lessons with no wasted time, watch and learn.  Then practice what you learned to effectively learn HTML.  Hands on practice with a fast paced easy to follow lesson plan. By the end of the course you will have the skills and knowledge to write your own HTML, and will be on the path for more advanced web development skills.  "
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "rating": { "number": 4.5, "badge": "Very Good" },
+      "total_view": 488,
+      "title": "Master CSS: Design Responsive and Modern Websites",
+      "author": {
+        "name": "Jimmy Dane"
+      },
+      "image_url": "https://www.tutorialrepublic.com/lib/images/css-illustration.png",
+      "details": "This course is designed to make you a top-notch and world class standardized web designer with HTML and CSS as your tool. If you want to be a mobile-first website designer, then this course is for you. With the skills you will gather from this course, you can proudly create any web site design from start to finish. It is an assurance because this CSS course is modern, precise, well explained and well structured. In this course you will also get a free access to my free HTML course shared at the end of this course just in case you are new to HTML or you want to brush up your HTML skills.This is a detailed course showing you step by step patterns, hence this is a premium CSS course. I don’t just want you to watch. I encourage you to code along.What you will learn.  You will thoroughly learn how to create equal and unequal columns using both the float and inline-block property.You will learn how to create image gallery and video gallery with columns. You will thoroughly learn how to work with 2D and 3D transforms, transitions and animations. You will thoroughly learn how to make shapes with clip path property.You will thoroughly learn how to use the CSS Media (@media) Query to make your web design mobile friendly and responsive. This means mobile-first approach And so much more...."
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "Complete Guide to Bootstrap 5",
+      "author": {
+        "name": "Jennifer Wood"
+      },
+      "image_url": "https://blog.getbootstrap.com/assets/img/2020/06/v5-new-logo.png",
+      "details": "Bootstrap is a popular framework designed for the building and development of responsive web applications. With Bootstrap 5, the framework has more UI elements and comes with more advanced features. More than a million websites use Bootstrap and their framework for front-end development. In this course, you will learn Bootstrap 5 from scratch to an advanced level. You will learn to build 3 Live Real-World projects with the latest Bootstrap 5 CSS framework. We will go through the Bootstrap 5 documentation step by step and learn how to use the UI elements.Now, before you can get started, you need to have some prerequisites for this course. Although this Bootstrap 5 course covers everything from scratch. You need some skills to get started. You need to have some skills in HTML5 & CSS3 and you should be able to build some websites with HTML and CSS. If not, that’s ok, but you still need to know some basics of HTML and CSS.You should know how Classes and IDs work in CSS because classes and IDs are what are used to build websites with Bootstrap 5. Make sure to have some basic idea of what CSS classes and IDs mean. You also need to have some skills in JavaScript, although it’s not required in this course much. It is still a good idea to have some skills in JavaScript. Because Bootstrap 5 uses JavaScript at its main core to work with web interactions, like dropdown menus, modals, and other UI elements.So, here’s what you will learn throughout the course.In section 1, you will learn what the Bootstrap 5 Framework is, and you will learn the basic structure of the Bootstrap 5 Basic webpage. In section 2, you will learn the breakpoints in the Bootstrap 5 grid system, and the types of containers available, and you will also learn how to work with the Bootstrap 5 grid for multiple devices. Including how-to columns inside the grid. You will learn how to align columns vertically, and horizontally, wrap columns, offset, and also re-ordering them. You will learn about margin utilities, gutters, and both horizontal gutters and vertical gutters.In section 3, you will learn about Bootstrap 5 main contents, in which you will learn about the Typography of Bootstrap 5. You will learn how to use images inside Bootstrap 5, how to create and use Tables within Bootstrap 5 and you will also learn how to create and work with Figures in Bootstrap 5. In section 4, you will learn how to work with forms and form elements in Bootstrap 5. As a start, you will learn how to create a basic login form with Bootstrap 5 cards and form controls. You will learn to use ways of implying custom and in-built CSS. Also, you will learn to set up and style the form layout within the Bootstrap 5 page. In section 5, you will learn about the components in Bootstrap 5. You will learn how to use Bootstrap 5’s Dismissible alerts, create badges, use Breadcrumbs in Bootstrap 5, create and align Buttons and Button groups within Bootstrap 5, and so much more.In section 6, you will learn about helpers in Bootstrap 5. you will learn about clearfix, colors, and background, colored links, ratios, positions, stacks, visually hiding elements, stretching links, truncating text, and vertical rule. In section 7, you will learn about Utilities in Bootstrap 5. This part includes every minor and major detail about all the utilities available in Bootstrap 5.2."
+    },
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 733,
+      "title": "The Complete Javascript Course: From Beginner to Expert",
+      "author": {
+        "name": "Theo Minh Châu"
+      },
+      "image_url": "https://i.pinimg.com/564x/2b/31/e9/2b31e91e469f0da7c2755e59e3a54d3a.jpg",
+      "details": "JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world. That's why you want to learn JavaScript too. And you came to the right place!Why is this the right JavaScript course for you?This is the most complete JavaScript course. It's an all-in-one package that will take you from the very fundamentals of JavaScript, all the way to building modern and complex applications. You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects.You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job. And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so you don't have to buy any other course in order to master JavaScript from the ground up!But... You don't have to go into all these topics. This is a huge course, because, after all, it's The Complete JavaScript Course. In fact, it's like many courses in one! But you can become an excellent developer by watching only parts of the course. That's why I built this course in a very modular way, and designed pathways that will take you through the course faster.By the end of the course, you will have the knowledge and confidence that you need in order to ace your job interviews and become a professional developer. So what exactly is covered in the course? Build 5 beautiful real-world projects for your portfolio! In these projects, you will learn how to plan and architect your applications using flowcharts and common JavaScript patterns Master the JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, and more.Learn modern JavaScript (ES6+) from the beginning: arrow functions, destructuring, spread operator, default arguments, optional chaining (ES2020), and more. How JavaScript works behind the scenes: engines, the call stack, hoisting, scoping, the 'this' keyword, reference values, and more."
+    },
+
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a3",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 127,
+      "title": "React-The Complete Guide",
+      "author": {
+        "name": "Stack Overflow"
+      },
+      "image_url": "https://i.pinimg.com/564x/9b/4e/e0/9b4ee057076232fb57c48cf80947f8a7.jpg",
+      "details": "React.js is THE most popular JavaScript library you can use and learn these days to build modern, reactive user interfaces for the web.This course teaches you React in-depth, from the ground up, step by step by diving into all the core basics, exploring tons of examples and also introducing you to advanced concepts as well.You'll get all the theory, tons of examples and demos, assignments and exercises and tons of important knowledge that is skipped by most other resources - after all, there is a reason why this course is that huge! And in case you don't even know why you would want to learn React and you're just here because of some ad or the algorithm - no worries: ReactJS is a key technology as a web developer and in this course I will also explain WHY it's that important! Welcome to React - The Complete Guide!This course will teach you React.js in a practice-oriented way, using all the latest patterns and best practices you need. You will learn all the key fundamentals as well as advanced concepts and related topics to turn you into a React.js developer. This is a huge course because it really covers EVERYTHING you need to know and learn to become a React.js developer! No matter if you know nothing about React or if you already got some basic React knowledge (not required but also not a problem), you will get tons of useful information and knowledge out of this course! My goal with this course is to ensure that you feel confident working with React, so that you can apply for React jobs, use it in your own projects or simply enhance your portfolio as a developer - whatever your goal is: This course gets you there!"
+    },
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a4",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 127,
+      "title": "MongoDB-The Complete Developer's Guide",
+      "author": {
+        "name": "Jhankar Mahbub"
+      },
+      "image_url": "https://i.pinimg.com/564x/80/2b/44/802b44d05ba4a378ca77b88d69bbb21c.jpg",
+      "details": "MongoDB is one of the most important NoSQL databases you can work with these days. It's extremely popular and MongoDB developers are in high demand. No matter if you're building web applications, mobile applications or any other kind of application or if you're a data scientist - you'll need to work with data. Storing data, querying it efficiently and minimizing complexities whilst optimizing performance are crucial tasks. MongoDB makes working with data simple - it's built on a philosophy that prioritizes performance and efficiency. In this course, you'll learn all about MongoDB from scratch. No prior MongoDB or database experience is required!"
+    }
+
+  ]
