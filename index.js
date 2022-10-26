@@ -20,6 +20,7 @@ app.get('/courses', (req, res) => {
     const selectedCourse = courses.find( course => course._id === id);
     res.send(selectedCourse);
   })
+  
   app.get('/premium/:id', (req, res) => {
     const id = req.params.id;
     const premiumCourse = premium.find( course => course._id === id);
